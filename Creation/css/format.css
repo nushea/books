@@ -1,0 +1,39 @@
+#Middle {
+    height:100vh;
+}
+#Middle>ul{
+    height:100vh;
+}
+#Upper {
+    height:25vh;
+}
+#Lower {
+    justify-content:space-around;
+    overflow:hidden;
+}
+#Lower>ul{
+    overflow-y: auto;
+    white-space: normal;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    width:45%;
+}
+#Right {
+    height:100vh;
+}
+.textblock {
+    margin-top:1vh;
+}
+.textblock>p {
+    margin-top:1vh;
+}
+#BAU {
+    font-size:3vh;
+}
+#English {
+    font-size:2.3vh;
+}
+.title {
+    text-align:center;
+    font-size:3.1vh;
+}
